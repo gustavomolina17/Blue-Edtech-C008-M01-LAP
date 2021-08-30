@@ -44,7 +44,7 @@ const filme05 = {
   ano: 2021,
   atores: ["Lebron James", "Maverick Carter", "Equipe Looney Tunes"],
   dados() {
-    return `O filme ${this.nome}, tem duração de ${this.duracao} minutos, foi lançado em ${this.ano} e seus atores principais são: ${this.atores}.`;
+    return `O filme ${this.nome} com a duração de ${this.duracao}min, foi lançado em ${this.ano} os atores principais são: ${this.atores}`;
   },
 };
 
