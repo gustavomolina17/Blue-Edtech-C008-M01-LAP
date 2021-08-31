@@ -15,8 +15,8 @@ show();
 // Exemplo 02 -> Passamos por argumento uma função anônima para a função setTimeout(). A função anônima passa a ser então um parâmetro da função setTimeout. A função setTimeout() executa essa função anônima um segundo depois.
 
 setTimeout(function () {
-  console.log("Função executada após 1s");
-}, 1000);
+  console.log("Função executada após 3s");
+}, 3000);
 
 //Se você deseja criar uma função e executá-la imediatamente após a declaração, pode usar a função anônima parecida com o Exemplo 03.
 
