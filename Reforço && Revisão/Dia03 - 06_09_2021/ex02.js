@@ -1,0 +1,7 @@
+let numeros = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+function tabuadaDo3(item) {
+  console.log(item * 3);
+}
+
+numeros.forEach(tabuadaDo3);
