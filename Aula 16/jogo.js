@@ -3,11 +3,11 @@ Constructor: Método construtor --> responsável por nos dizer quais são os atr
 Métodos: São as ações que podemos fazer com os nossos objetos. */
 
 class Jogo {
-  constructor(titulo, genero, produtora, preço) {
+  constructor(titulo, genero, produtora, preco) {
     this.titulo = titulo;
     this.genero = genero;
     this.produtora = produtora;
-    this.preço = preço;
+    this.preco = preco;
   }
 
   Abrir() {
