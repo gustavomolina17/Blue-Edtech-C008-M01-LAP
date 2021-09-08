@@ -1,6 +1,6 @@
 #
 
-![alt-text](https://github.com/gabrielsfarias/Blue-Edtech-C008-M01-LAP/blob/main/Projetos/logo-blue-croped.gif)
+![alt-text](https://github.com/gabrielsfarias/Blue-Edtech-C008-M01-LAP/blob/main/Projetos/logo-blue-croped.gif =256x256)
 
 ## **Jogo de Ficção Interativa**
 
