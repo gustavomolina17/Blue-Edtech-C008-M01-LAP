@@ -1,10 +1,9 @@
-#
 
-![alt-text](https://github.com/gabrielsfarias/Blue-Edtech-C008-M01-LAP/blob/main/Projetos/logo-blue-croped.gif =256x256)
+<img src="https://github.com/gabrielsfarias/Blue-Edtech-C008-M01-LAP/blob/main/Projetos/logo-blue-croped.gif" width="138" height="58" />
 
 ## **Jogo de Ficção Interativa**
 
-#
+
 
 ### **O que é ficção interativa?**
 
