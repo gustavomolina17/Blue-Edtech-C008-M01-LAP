@@ -52,14 +52,6 @@ setTimeout(function () {
   prato1.Preparar();
 }, 3000);
 
-setTimeout(function () {
-  prato1.Arrumar();
-}, 3000);
-
-setTimeout(function () {
-  prato1.Comer();
-}, 3000);
-
 // Criação do nosso 2º Prato (Objeto)
 
 prato2.nome = String(prompt("Digite o nome do prato: "));
