@@ -1,3 +1,3 @@
-# Aula 23 - 15/09
+# Aula 24 - 16/09
 
-** Apresentação dos Projetos Finais**
+** Correção dos Projetos**
