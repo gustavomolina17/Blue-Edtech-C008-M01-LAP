@@ -1,3 +1,3 @@
-# Aula 23 - 15/09
+# Aula 25 - 17/09
 
-** Apresentação dos Projetos Finais**
+** Encerramento do módulo 1**
