@@ -2,11 +2,6 @@
     Módulo 1 - LAP - C008
 </h1>
 
-<p align="center">
-    <a href="https://blueedtech.com.br/">
-        <img src="https://github.com/gabrielsfarias/Blue-Edtech-C008-M01-LAP/blob/main/Projetos/logo-blue-croped.gif" width="138" height="58" />
-    </a>
-</p>
 
 ## Tecnologias
 - JavaScript
